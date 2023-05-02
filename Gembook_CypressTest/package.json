@@ -1,0 +1,12 @@
+{
+  "name": "gembook_automation-gem-sivapuja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gembook_automation"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
