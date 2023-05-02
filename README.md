@@ -7,4 +7,4 @@ NPM [Node Package Manager] is a JavaScript package manager that has inbuilt node
 
 /// npx cypress open [cmd to open test run report]
 
-Mocha is an inbuilt Test Runner with Cypress [only test runner for Cypress] [Mocha need not be specially installed - https://mochajs.org/ ]
+Mocha is an inbuilt Test Runner with Cypress [only test runner for Cypress] [hence Mocha need not be specially installed for Cypress - https://mochajs.org/ ]
